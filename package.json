@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "nodegit": "0.21.2",
+    "ramda": "^0.25.0"
+  }
+}

@@ -1,0 +1,7 @@
+[
+  {
+    "name": "yaya-core-kit",
+    "mainBranch": "origin/master",
+    "checkBranches": ["master"]
+  }
+]
